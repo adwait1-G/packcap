@@ -1,5 +1,5 @@
 
-#packcap - Packet Capture and Analysis Tool.
+# packcap - Packet Capture and Analysis Tool.
 
 **The tool makes use of the libpcap library.**
 
